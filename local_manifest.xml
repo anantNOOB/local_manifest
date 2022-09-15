@@ -39,11 +39,4 @@
           remote="PainKiller3" 
           revision="twelve" />
 
-
-<!-- HW xiaomi -->
- <project path="hardware/xiaomi" 
-          name="android_hardware_xiaomi.git" 
-          remote="ArrowOS-Devices"
-          revision="arrow-13.0" />
-
 </manifest>
